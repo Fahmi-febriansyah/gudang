@@ -20,6 +20,8 @@ if (isset($_POST['submit'])) {
         document.location.href = 'index.php'
         </script>";
     }else{
+        $angka = 0;
+        this angkan create logic
         echo "<script>
         alert('username dan password salah');
         document.location.href = 'login.php'
